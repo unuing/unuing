@@ -1,8 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently a middle school student.
 - 😁 I’m very interested in computer science.
-- 🌱 I’m currently self-learning [CS61A](https://inst.eecs.berkeley.edu/~cs61a/su20/). I spend all my spare time on it.
+- 🌱 I’m currently self-learning [CS61A](https://inst.eecs.berkeley.edu/~cs61a/su20/) and [CS61B](https://sp21.datastructur.es/). I spend all my spare time on them.
 - 🤔 I’m looking for help with how to name variables and functions.
+- 😄 Pronouns: He
 <!--
 **unuing/unuing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
