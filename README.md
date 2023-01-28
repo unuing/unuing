@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently a junior high school student.
 - 😁 I’m very interested in computer science.
-- 🌱 I’m currently self-learning [CS61B](https://sp21.datastructur.es/). I spend all my spare time on it.
+- 🌱 I’m currently self-learning [CS61C](https://inst.eecs.berkeley.edu/~cs61c/su21/). I spend all my spare time on it.
 - 🤔 I’m looking for help with how to name variables and functions.
 - 😄 Pronouns: He
 <!--
