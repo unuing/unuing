@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently a junior high school student.
-- 😁 I’m very interested in computer science, specifically, databases, computer architecture and operating systems.
+- 😁 I’m interested in databases, computer architecture and operating systems.
 - 🌱 I’m currently self-learning [CS61C](https://inst.eecs.berkeley.edu/~cs61c/su21/). I spend all my spare time on it.
 - 🤔 I’m looking for help with how to name variables and functions.
 - 😄 Pronouns: He
