@@ -2,8 +2,6 @@
 - 🔭 I’m currently a junior high school student.
 - 😁 I’m interested in databases, computer architecture and operating systems.
 - 🌱 I’m currently self-learning [CS61C](https://inst.eecs.berkeley.edu/~cs61c/su21/).
-<!-- - 🤔 I’m looking for help with Linux driver for Realtek 8852BE network adapter. -->
-- 😄 Pronouns: He
 <!--
 **unuing/unuing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
