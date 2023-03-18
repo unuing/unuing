@@ -2,6 +2,8 @@
 - 🔭 I’m currently a junior high school student.
 - 😁 I’m interested in databases, computer architecture and operating systems.
 - 🌱 I’m currently self-learning [CS61C](https://inst.eecs.berkeley.edu/~cs61c/su21/).
+- 💬 Ask me about anything you want to know.
+- 📫 How to reach me: unuing@outlook.com (I don't often check my inbox)
 <!--
 **unuing/unuing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
