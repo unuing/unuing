@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently a junior high school student.
 - 😁 I’m interested in databases, computer architecture and operating systems.
-- 🌱 I’m currently self-learning [CS61C](https://inst.eecs.berkeley.edu/~cs61c/su21/).
+- 🌱 I’m currently self-learning calculus.
 - 💬 Ask me about anything you want to know.
 - 📫 How to reach me: unuing@outlook.com (I don't often check my inbox)
 <!--
